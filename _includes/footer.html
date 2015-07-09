@@ -1,20 +1,21 @@
-<footer class="site-footer">
+<div class="site-sidebar">
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
+    <h2 class="sidebar-heading">{{ site.title }}</h2>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col  footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
+    <div class="sidebar-col-wrapper">
 
-      <div class="footer-col  footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
+
+        <!-- ADD MY FACE HERE -->
+        <div class="avatar">
+        <img id="profile_gravatar" width="300" height="300"
+        class="profile__header__avatar"
+        src="https://secure.gravatar.com/avatar/3e5f6b3bef03b763a13b1bebe9c29f06.png?d=retro&amp;r=PG&amp;s=300"
+        alt="3e5f6b3bef03b763a13b1bebe9c29f06">
+        </div>  
+       <ul class="social-media-list">
+         {% if site.github_username %}
           <li>
             <a href="https://github.com/{{ site.github_username }}">
               <span class="icon  icon--github">
@@ -23,7 +24,6 @@
                 </svg>
               </span>
 
-              <span class="username">{{ site.github_username }}</span>
             </a>
           </li>
           {% endif %}
@@ -38,18 +38,17 @@
                 </svg>
               </span>
 
-              <span class="username">{{ site.twitter_username }}</span>
             </a>
           </li>
           {% endif %}
+          <li>{{ site.title }}</li>
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
-      </div>
 
-      <div class="footer-col  footer-col-3">
+
         <p class="text">{{ site.description }}</p>
-      </div>
     </div>
 
   </div>
 
-</footer>
+</div>

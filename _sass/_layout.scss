@@ -1,3 +1,9 @@
+
+body {
+max-width: 980px
+;
+margin: 0 auto;
+}
 /**
  * Site header
  */
@@ -89,16 +95,29 @@
 
 
 /**
- * Site footer
+ * Site sidebar
  */
-.site-footer {
-//    border-top: 1px solid $grey-color-light;
-//    padding: $spacing-unit 0;
+.site-sidebar {
+  position: fixed;
+  margin-left: 2%;
 width: 25%;
 float: left;
 }
 
-.footer-heading {
+.profile__header__avatar {
+margin-right: 45px;
+height: 150px;
+width: 150px;
+float: left;
+border-radius: 50%;
+-webkit-transition: all 500ms ease-in;
+}
+
+.avatar {
+width:100%;
+}
+
+.sidebar-heading {
  //   font-size: 18px;
  //   margin-bottom: $spacing-unit / 2;
 }
@@ -109,49 +128,50 @@ float: left;
     margin-left: 0;
 }
 
-.footer-col-wrapper {
+.sidebar-col-wrapper {
     font-size: 15px;
+    max-width: 200px;
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
 
-.footer-col {
+.sidebar-col {
     float: left;
     margin-bottom: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
 }
 
-.footer-col-1 {
+.sidebar-col-1 {
  //   width: -webkit-calc(35% - (#{$spacing-unit} / 2));
  //   width:         calc(35% - (#{$spacing-unit} / 2));
 }
 
-.footer-col-2 {
+.sidebar-col-2 {
 //    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
   //  width:         calc(20% - (#{$spacing-unit} / 2));
 }
 
-.footer-col-3 {
+.sidebar-col-3 {
  //   width: -webkit-calc(45% - (#{$spacing-unit} / 2));
  //   width:         calc(45% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
-    .footer-col-1,
-    .footer-col-2 {
+    .sidebar-col-1,
+    .sidebar-col-2 {
         width: -webkit-calc(50% - (#{$spacing-unit} / 2));
         width:         calc(50% - (#{$spacing-unit} / 2));
     }
 
-    .footer-col-3 {
+    .sidebar-col-3 {
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
 }
 
 @include media-query($on-palm) {
-    .footer-col {
+    .sidebar-col {
         float: none;
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
@@ -164,9 +184,11 @@ float: left;
  * Page content
  */
 .page-content {
+
     padding: $spacing-unit 0;
-    width: 75%;
-    float:left;
+   float:left;
+  margin-left: 25%;
+  margin-right:5%;
 }
 
 .page-heading {
@@ -197,6 +219,7 @@ float: left;
 /**
  * Posts
  */
+
 .post-header {
     margin-bottom: $spacing-unit;
 }

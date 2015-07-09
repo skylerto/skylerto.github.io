@@ -192,7 +192,6 @@ pre {
 .icon {
 
     > svg {
-        display: inline-block;
         width: 16px;
         height: 16px;
         vertical-align: middle;
@@ -201,4 +200,7 @@ pre {
             fill: $grey-color;
         }
     }
+
+    float: left;
+    margin: 5px;
 }
