@@ -2,7 +2,7 @@
 layout: post
 title: "Writing Ruby scripts"
 date: 2015-07-09 16:07:30
-catagoried: ruby scripting programming
+catagories: ruby scripting programming
 ---
 
 TL;DR visit `Sum it up already`
