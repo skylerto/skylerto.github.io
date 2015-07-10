@@ -62,7 +62,7 @@ Creating my own data structure and a singleton class which inherits it.
 Now I know this article is titled "Vanilla Ruby Fun" but it's sort of pun title.
 While writing ruby is a lot of fun, as developers in the ruby community, we need
 to be aware that this isn't the only way to write ruby applications. Frankly,
-this is a terrible way to write ruby code. If you're familiar with rails then should know about the concept of [gems](http://rubygems.com). 
+this is a terrible way to write ruby there must be a better way.
 
 # Conclusions
 This app was particularly craft from the ground up as a lesson in ruby design
