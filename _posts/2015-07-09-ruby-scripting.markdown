@@ -87,6 +87,6 @@ Hello, world!
 # Sum it up already!
 
 Alright, what'd be learn?  
- - Don't forget shebang  
- - Allow executeable permissions  
- - Move to ~/bin aka our tool belt if we want our scripts close to us  
+ * Don't forget shebang  
+ * Allow executeable permissions  
+ * Move to ~/bin aka our tool belt if we want our scripts close to us  
