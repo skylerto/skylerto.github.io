@@ -15,12 +15,13 @@ software architecture as well as concurrency in Java.
 
 # Structure
 
-At the moment the application has a CLI, it taks as arguments, the input file,
-output file, and an encryption key. 
+At the moment the application has a CLI, it takes as arguments, the input file,
+output file, and an encryption key. Here is the Data model:
 
 # Encryption Algorithm
 
-The algorithm used tp encrypt is a simple symmetric encryption, it gets the
+The algorithm used tp encrypt is a simple symmetric encryption, encrypt over
+positive key, decrypt over negative. The algorithm gets the
 integer value of the character and performs simple additions an modulo then
 convert the integer back to a character. 
 
