@@ -4,7 +4,7 @@ title: "Ruby in Production"
 date: 2015-06-21
 ---
 
-I built something cool in ruby (The Gypsy Corner)[http://www.thegypsycorner.ca].
+I built something cool in ruby [The Gypsy Corner](http://www.thegypsycorner.ca).
 
 ## What is it?
 This is a web application written with the Ruby on Rails framework deployed with Heroku and uses a AWS data bucket for photo storage.
