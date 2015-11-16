@@ -27,26 +27,28 @@ satisfaction
 both faculty and staff
 
 # Projects
-## TheGypsyCorner (Summer 2015, Individual Project):
+
+### TheGypsyCorner (Summer 2015, Individual Project):
 Designed and implemented, from the ground up, a blogging and artwork showcase
  platform for a community member. Designed the layouts using Sketch 3, and written in
  about 3,000 lines of Ruby on Rails. Deployed on Heroku, using Amazon S3 for image
 
-##  Tab2PDF (Winter 2014, Group Project):
+### Tab2PDF (Winter 2014, Group Project):
 Implemented a Java application to convert ASCII guitar tabs into a PDF document
  containing the sheet music. Written in Java, 11,000 Lines of code. Using Java swing and
  the iText framework. Tested using Test driven development via the JUnit testing
  framework.
 
 # Technical Proficiencies
-## Languages
+
+### Languages
 Java (JDK8, Applets and Applications, Java Swing, JSP), C, Ruby, Javascript, Eiffel, MySQL
 
-## Operating Systems
+### Operating Systems
 Linux (Debian and Red Hat), Windows, and Mac OS X
 
-## Applications
+### Applications
 Eclipse LUNA (Including Rodin and Android ADT), Content Management System (Wordpress), iVerilog
 
-## Skills
+### Skills
 Object Oriented methodologies, Risk Mitigation, Test Driven Development, Defensive programming, UML Modeling, Git.
