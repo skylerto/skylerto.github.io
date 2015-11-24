@@ -21,6 +21,7 @@ September 2012 to June 2016 (expected)
 # Experience  
 
 #### Business Operations Assistant May/2014 – Ongoing  
+
 ##### E-Services, York University  
  - Provide technical support for the Faculty of Liberal Arts and Professional Studies  
  - Resolve internal faculty and student complaints within established guidelines to
