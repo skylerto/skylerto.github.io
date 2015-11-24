@@ -12,13 +12,16 @@ I am a dedicated, quick learning team player offering:
  - A desire to learn new skills, both technical and interpersonal.
  - Ability to resolve complex issues with full accountability.
 
-# Education
+# Education  
+
 ## 4rd year B. Eng., Spec. Hons. Software Engineering
 York University, Lassonde School of Engineering, Toronto ON  
 September 2012 to June 2016 (expected)
 
-# Experience
-## Business Operations Assistant May/2014 – Ongoing 
+# Experience  
+
+## Business Operations Assistant May/2014 – Ongoing  
+
 E-Services, York University  
  - Provide technical support for the Faculty of Liberal Arts and Professional Studies  
  - Resolve internal faculty and student complaints within established guidelines to
@@ -26,7 +29,8 @@ satisfaction
  - Assist in managing the computing inventory for York’s largest department, including
 both faculty and staff  
 
-# Projects
+# Projects  
+
 ## TheGypsyCorner (Summer 2015, Individual Project):  
 Designed and implemented, from the ground up, a blogging and artwork showcase
  platform for a community member. Designed the layouts using Sketch 3, and written in
