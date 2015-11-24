@@ -5,20 +5,20 @@ permalink: /resume/
 ---
 [A PDF version is also available!](../docs/resume--skyler-layne.pdf)
 
-### Objective
+## Objective
 To challenge myself and make a difference, while acquiring knowledge to further both myself, and your company.
 I am a dedicated, quick learning team player offering:
  - An uncompromising commitment, and the ability to build productive relationships.
  - A desire to learn new skills, both technical and interpersonal.
  - Ability to resolve complex issues with full accountability.
 
-### Education  
+## Education  
 
 #### 4rd year B. Eng., Spec. Hons. Software Engineering
 York University, Lassonde School of Engineering, Toronto ON  
 September 2012 to June 2016 (expected)
 
-### Experience  
+## Experience  
 
 #### Business Operations Assistant May/2014 – Ongoing  
 
@@ -29,7 +29,7 @@ satisfaction
  - Assist in managing the computing inventory for York’s largest department, including
 both faculty and staff  
 
-### Projects  
+## Projects  
 
 #### TheGypsyCorner (Summer 2015, Individual Project):  
 Designed and implemented, from the ground up, a blogging and artwork showcase
@@ -42,7 +42,7 @@ Implemented a Java application to convert ASCII guitar tabs into a PDF document
  the iText framework. Tested using Test driven development via the JUnit testing
  framework.
 
-### Technical Proficiencies
+## Technical Proficiencies
 
 #### Languages
 Java (JDK8, Applets and Applications, Java Swing, JSP), C, Ruby, Javascript, Eiffel, MySQL
