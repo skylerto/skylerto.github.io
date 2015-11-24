@@ -5,6 +5,8 @@ date: 2015-10-25
 categories: programming javascript
 ---
 
+[Checkout where I used this!](https://github.com/skylerto/pomodoro)
+
 I've taken a strong interest in Javascript this last few weeks. One of my professors told me that first years will be learning it in their first year.
 So I've jumped in with two feet, I'm trying to solve all of my problems with javascript it seems to be rather fun these days.
 
