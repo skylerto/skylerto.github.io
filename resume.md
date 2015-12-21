@@ -14,7 +14,7 @@ I am a dedicated, quick learning team player offering:
 
 ## Education  
 
-#### 4rd year B. Eng., Spec. Hons. Software Engineering
+#### 4th year B. Eng., Spec. Hons. Software Engineering
 York University, Lassonde School of Engineering, Toronto ON  
 September 2012 to June 2016 (expected)
 
