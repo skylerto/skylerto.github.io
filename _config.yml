@@ -1,6 +1,6 @@
 # Site settings
-title:  
-email: skylerclayne@gmail.com 
+title:
+email: skylerclayne@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hi, I'm Skyler Layne. I'm a software engineering student. I love cats and all things code.
 baseurl: "" # the subpath of your site, e.g. /blog/
