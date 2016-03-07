@@ -10,7 +10,7 @@ categories: programming vim atom
 *Use the right tool for the job, atom is big, vim can get big too.*  
 
 
-{% youtube hCml8r_odN4 %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hCml8r_odN4" frameborder="0" allowfullscreen></iframe>
 
 
 
