@@ -10,4 +10,3 @@ github_username:  skylerto
 
 # Build settings
 markdown: kramdown
-pygments: true
