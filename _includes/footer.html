@@ -91,8 +91,10 @@
 
       <!-- <p class="text">{{ site.description }}</p> -->
 
-      <nav class="nav" style="clear:both;">
-        <ul class="nav nav-left">
+
+      <nav class="" style="clear:both;">
+
+        <ul class="mobile-nav flexnav" data-breakpoint="800">
           <li>
             <a href="/about">About</a>
           </li>
@@ -103,9 +105,35 @@
             <a href="/resume">Resume</a>
           </li>
         </ul>
-      </nav>
 
+      <ul class="nav" data-breakpoint="800">
+        <li>
+          <a href="/about">About</a>
+        </li>
+        <li>
+          <a href="/blog">Blog</a>
+        </li>
+        <li>
+          <a href="/resume">Resume</a>
+        </li>
+      </ul>
+    </nav>
 
+      <div class="menu-button"></div>
+
+      <script>
+        $(".flexnav").flexNav({
+          'animationSpeed': 250, // default for drop down animation speed
+          'transitionOpacity': true, // default for opacity animation
+          'buttonSelector': '.menu-button', // default menu button class name
+          'hoverIntent': false, // Change to true for use with hoverIntent plugin
+          'hoverIntentTimeout': 150, // hoverIntent default timeout
+          'calcItemWidths': false, // dynamically calcs top level nav item widths
+          'hover': true // would you like hover support?
+        });
+      </script>
+
+      <div class="clearfix"></div>
 
     </div>
 
