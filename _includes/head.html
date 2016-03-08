@@ -19,6 +19,14 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ " /feed.xml " | prepend: site.baseurl | prepend: site.url }}" />
   <!-- Latest compiled and minified CSS -->
 
+  <!-- Put these into the <head> -->
+  <link rel="stylesheet" href="{{ " /css/main.css " | prepend: site.baseurl }}">
+  <script src="http://code.jquery.com/jquery-2.2.1.min.js"></script>
+  <link rel="stylesheet" href="{{ " /css/responsive-nav.css "| prepend: site.baseurl }}">
+  <script src="js/responsive-nav.js"></script>
+  <script src="js/fixed-responsive-nav.js"></script>
+
+  <!--  Google analytics -->
   <script>
     (function(i, s, o, g, r, a, m) {
       i['GoogleAnalyticsObject'] = r;
@@ -35,5 +43,7 @@
     ga('create', 'UA-74738284-1', 'auto');
     ga('send', 'pageview');
   </script>
+
+
 
 </head>
