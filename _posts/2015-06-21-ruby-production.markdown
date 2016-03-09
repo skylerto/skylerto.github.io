@@ -7,6 +7,8 @@ categories: programming ruby
 
 I built something cool in ruby [The Gypsy Corner](http://www.thegypsycorner.ca).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zfkPXseBM84" frameborder="0" allowfullscreen></iframe>
+
 ## What is it?
 This is a web application written with the Ruby on Rails framework deployed with Heroku and uses a AWS data bucket for photo storage.
 
