@@ -34,6 +34,6 @@ Concerning the client, a lot of people are familiar with Wordpress, so if your c
 
 # Soo...?
 
-If I were to recommend my younger self one language/framework to get really good at, I would recommend Wordpress. Not because of developer productivity, budget, security, or any other reason, other than the sheer fact of how many how many people use it; some clients actually request for a Wordpress site or theme by name.  
+If I were to recommend my younger self one language/framework to get really good at, I would recommend Wordpress especially if you are looking to freelance. Not because of developer productivity, budget, security, or any other reason, other than the sheer fact of how many how many people use it; some clients actually request for a Wordpress site or theme by name.  
 
 With that said, I would also recommend spending a lot of time with javascript, not just client side, but server side as well. I foresee a huge future for javascript, not matter how much I disagree with dynamically typed languages.  
