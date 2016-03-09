@@ -2,6 +2,7 @@
 layout: post
 title: "Ruby in Production"
 date: 2015-06-21
+categories: programming ruby
 ---
 
 I built something cool in ruby [The Gypsy Corner](http://www.thegypsycorner.ca).

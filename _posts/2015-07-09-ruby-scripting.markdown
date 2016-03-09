@@ -2,7 +2,7 @@
 layout: post
 title: "Writing Ruby scripts"
 date: 2015-07-09 16:07:30
-catagories: ruby scripting programming
+catagories: programming ruby
 ---
 
 TL;DR visit `Sum it up already`
@@ -32,7 +32,7 @@ an executeable script.
 
 Alright, like any good programmer we start off with "hello, world!" we can write
 a whole nother article on the importance of hello world, but, we'll save that
-for later. 
+for later.
 
 If you know ruby then you know how easy this is...
 

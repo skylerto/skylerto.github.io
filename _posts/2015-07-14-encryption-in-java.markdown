@@ -2,7 +2,7 @@
 layout: post
 title: "Encryption in Java"
 date: 2015-07-14 14:02:45
-catagories: programming java algorithms
+catagories: programming java
 ---
 
 TL;DR [Check it out](https://github.com/skylerto/encryption)
@@ -23,7 +23,7 @@ output file, and an encryption key. Here is the Data model:
 The algorithm used tp encrypt is a simple symmetric encryption, encrypt over
 positive key, decrypt over negative. The algorithm gets the
 integer value of the character and performs simple additions an modulo then
-convert the integer back to a character. 
+convert the integer back to a character.
 
 
 {% highlight java %}
@@ -40,4 +40,3 @@ protected char encryptChar(char character){
 {% endhighlight %}
 
 See I told you it was simple.
-

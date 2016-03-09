@@ -2,7 +2,7 @@
 layout: post
 title: "Vanilla Ruby Fun"
 date: 2015-07-10 00:01:25
-catagories: ruby programming
+catagories: programming ruby
 ---
 
 Vanilla, a term that took me a while to truely understand and even longer to
@@ -53,11 +53,11 @@ about [writing scripts in ruby](/2015/07/09/ruby-scripting.html). The thing that
 stands out is the low number of test files, but I promise, like a good
 programmer I used TDD.
 
-# Patterns 
+# Patterns
 Essentially I used the command design pattern for input commands. This allows
 us to seperate out the class that invokes the command from the one that executes
 it. I used the strategy pattern to design the internal parts of the system.
-Creating my own data structure and a singleton class which inherits it. 
+Creating my own data structure and a singleton class which inherits it.
 
 Now I know this article is titled "Vanilla Ruby Fun" but it's sort of pun title.
 While writing ruby is a lot of fun, as developers in the ruby community, we need

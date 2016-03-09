@@ -2,7 +2,7 @@
 layout: post
 title: "Why I'll Never Leave the City"
 date: 2014-11-28 16:00:20
-catagories: 
+catagories: personal 
 ---
 
 

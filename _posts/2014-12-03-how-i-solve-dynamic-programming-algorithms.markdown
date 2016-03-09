@@ -2,7 +2,7 @@
 layout: post
 title: "How I Solve Dynamic Programming Algorithms"
 date: 2014-12-03 20:00:11
-catagories: programming algorithsm
+catagories: programming algorithms
 ---
 
 # Introduction
@@ -69,7 +69,7 @@ table; for later consideration.
 Dynamic Programming Algorithm
 # <pre-cond> – Usually stated within the problem.
 # <post-cond> – Usually stated within the problem.
-def BirdFriendAlgorithm 
+def BirdFriendAlgorithm
  Table: Create a table to store the optCost of the solution.
  # ”Base case”: Initialize the table
  # General cases: Loop over sub-instances in the table.
