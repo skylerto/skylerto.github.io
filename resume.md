@@ -3,7 +3,7 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-[A PDF version is also available!](../docs/resume--skyler-layne.pdf)
+[A PDF version is also available.](../docs/resume--skyler-layne.pdf)
 
 ## Objective
 To challenge myself and make a difference, while acquiring knowledge to further both myself, and your company.
@@ -54,7 +54,7 @@ HTML, CSS/SCSS, javascript, jQuery, AJAX.
 Linux (Debian), Windows, and Mac OS X.  
 
 ### Productivity Tools
-Eclipse LUNA (Including Rodin and Android ADT), Content Management System (Wordpress), VIM, Atom, git.  
+Maven, JUnit, Mocha/Chai, Eclipse LUNA (Including Rodin and Android ADT), Content Management System (Wordpress), VIM, Atom, git.  
 
 ### Software Engineering
 Object Oriented methodologies, Risk Mitigation, Test Driven Development, Defensive programming, UML Modeling, Agile Development, Requirements Engineering.
