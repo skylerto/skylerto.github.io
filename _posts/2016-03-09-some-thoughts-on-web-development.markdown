@@ -23,7 +23,7 @@ Simple fact is you don't have to listen to me, I realize I don't have as much ex
 
 # What Are These Good For?
 
-I'll answer this with an analogy. There really isn't any bad coffee per say, sometimes you feel like express to get you going, other times you feel like getting a Tim Hortons (Dunkin' Donuts) for the convenience; each has a purpose. However it is completely subject and depends on what you're trying to accomplish. Relating this back to web technologies, each technology has its own purpose. The choice of technology doss not just depend on what you're trying to build; think bigger. It may also depend on your business structure, client, or any constraints placed on you.  
+I'll answer this with an analogy. There really isn't any bad coffee per say, sometimes you feel like express to get you going, other times you feel like getting a Tim Hortons (Dunkin' Donuts) for the convenience; each has a purpose. However it is completely subject and depends on what you're trying to accomplish. Relating this back to web technologies, each technology has its own purpose. The choice of technology does not just depend on what you're trying to build; think bigger. It may also depend on your business structure, client, or any constraints placed on you.  
 
 If your business slogan is *"we make web apps in a hurry"* well then something like Rails is best suited for you. If your slogan is *"reliable, scalable, and safe"* you're probably looking at play framework or a Java backend web app.  
 
