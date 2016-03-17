@@ -25,13 +25,14 @@ Simple fact is you don't have to listen to me, I realize I don't have as much ex
 
 I'll answer this with an analogy. There really isn't any bad coffee per say, sometimes you feel like express to get you going, other times you feel like getting a Tim Hortons (Dunkin' Donuts) for the convenience; each has a purpose. However it is completely subject and depends on what you're trying to accomplish. Relating this back to web technologies, each technology has its own purpose. The choice of technology does not just depend on what you're trying to build; think bigger. It may also depend on your business structure, client, or any constraints placed on you.  
 
-If your business slogan is *"we make web apps in a hurry"* well then something like Rails is best suited for you. If your slogan is *"reliable, scalable, and safe"* you're probably looking at play framework or a Java backend web app.  
+If your business slogan is *"we make quality web apps, value great software, and developer experience"* well then something like Rails is best suited for you. If your slogan is *"reliable, scalable, and safe"* you're probably looking at play framework or a Java backend web app.  
 
 Concerning the client, a lot of people are familiar with Wordpress. If your client is someone posh, who thinks they know all of the things, Wordpress is likely the solution. I don't mean to sound like I have all the answers, however awesome Wordpress is, it gives the client the illusion that they are building their own web app, just by having access over dynamic content.  
 
 
 # Soo...?
 
-If I were to recommend my younger self one language/framework to get really good at, I would recommend Wordpress, especially if you are looking to freelance. Not because of developer productivity, budget, security, or any reason, other than the sheer fact of how many people use it. Some clients actually request for a Wordpress site, or theme, by name.  
+If I were to recommend my younger self one language/framework to get really good at, I would recommend Rails, especially if you are looking to build great software as a freelancer. This is because of developer productivity, budget, security, and many other reasons (I'd seriously love to talk about them, email me!). While some clients actually request for a Wordpress site, or theme by name, as a software engineer, I feel building quality software is important. I am not saying you cannot build quality software wth Wordpress, however, I am saying you certainly have more control over the structure of the application with Rails, and Ruby is just plain awesome!
 
-With that said, I would also recommend spending a lot of time with javascript, not just client side, but server side as well. I foresee a huge future for javascript, no matter how much I disagree with dynamically typed languages.  
+
+With that said, I would also recommend spending a lot of time with javascript, not just client side, but server side as well. I foresee a huge future for javascript. I would still recommend 
