@@ -10,3 +10,5 @@ github_username:  skylerto
 
 # Build settings
 markdown: kramdown
+gems:
+    - jekyll-feed
