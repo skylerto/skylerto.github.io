@@ -31,10 +31,23 @@ both faculty and staff
 
 ## Projects  
 
+### Virtual Reality Application Focused on Low Mobility Users (Sep. 2015 - Apr. 2016)
+4th Year Capstone Project (ENG 4000) - Midterm Grade: A   
+Worked as part of a team to create a virtual reality food garden to allow low
+mobility users to have an immersive gardening experience while learning about
+climate change resiliency, food security, and healthy food choices.
+Applied the Agile Development methodology with weekly SCRUM meetings to allow
+for the iterative development of prototypes, and verified quality assurance.
+Contributed extensive programming knowledge of C#, JavaScript, and
+Object-Oriented Design to create re-usable generic components to allow more
+plant models to easily be added later. Designed and implemented player
+actions, including planting and removing fauna. Created working demos on Windows, OS X and Android, all with controller
+support. Personal blog about [super personal.](http://skylerlayne.me/2016/04/01/what-i-learned-from-capstone.html) 
+
 ### [The Gypsy Corner](http://www.thegypsycorner.ca/) (Summer 2015, Individual Project):  
 Designed and implemented, from the ground up, a blogging and artwork showcase
  platform for a community member. Designed the layouts using Sketch 3, and written in
- about 3,000 lines of Ruby on Rails. Deployed on Heroku, using Amazon S3 for image storage. The app is hosted at [www.thegypsycorner.ca/](http://www.thegypsycorner.ca/) and the code is also available [The Gypsy Corner Code](https://github.com/skylerto/thegypsycorner/tree/master/gypsycorner).  
+ about 3,000 lines of Ruby on Rails. Deployed on Heroku, using Amazon S3 for image storage. The app is hosted at [www.thegypsycorner.ca/](http://www.thegypsycorner.ca/) and the code is also available [The Gypsy Corner Code](https://github.com/skylerto/thegypsycorner/tree/master/gypsycorner). I [blogged about it!](http://skylerlayne.me/programming/ruby/2015/06/21/ruby-production.html)  
 
 ### [Tab2PDF](https://github.com/skylerto/RuntimeDefenders3) (Winter 2014, Group Project):  
 Implemented a Java application to convert ASCII guitar tabs into a PDF document
