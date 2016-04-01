@@ -3,7 +3,7 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-[A PDF version is also available.](../docs/resume--skyler-layne.pdf)
+[A PDF version is also available.](../docs/resume.pdf)
 
 ## Objective
 To challenge myself and make a difference, while acquiring knowledge to further both myself, and your company.
