@@ -65,3 +65,6 @@ sometimes but the reward is incomparable to any other. You did that, you made th
 you learned that skill. 
   
 *Stay humble, always be learning, and don't sell yourself short*
+
+**EDIT**: We won second place on our project in this years competition as well as the
+[PEO York Chapter Prize](http://lassonde.yorku.ca/awards-bursaries-scholarships-0); The PEO York Chapter Prize will be awarded at the Lassonde School of Engineering Capstone Projects Competition to a Lassonde student team who will have created, developed and promoted the product/project with the greatest commercial potential
