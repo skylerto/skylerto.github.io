@@ -25,7 +25,7 @@ what I am trying to achieve.
 
 ## What I Expected
 
-Absolute massacure, I thought the judges would chew up and spit out our project.
+Absolute massacre, I thought the judges would chew up and spit out our project.
 I was expecting implications such as "this will never work", "why bother making this?",
 and the worst of all "you have wasted your time". I know sounds harsh, but when
 you make something, it truly is hard to ship your work. You are literally being
@@ -37,7 +37,7 @@ So it turns out we did not do bad at all. In order of pitches, we were the 3rd
 to go (out of 7). When it came our time the judges were literally yawning! To
 many formalities, to many numbers. It is nice for investors, but it gets boring
 I understand completely. But why is everyone so formal? I do believe there is a time and a
-lace for everything, this was the time to be ourselves, get personal and certainly not
+place for everything, this was the time to be ourselves, get personal and certainly not
 formal; after all there were only 5 judges! I truly believe that an individual,
 personal interaction with our product rather than some generic sales pitch
 really helped us out; it *never* fails to be yourself.  
