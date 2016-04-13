@@ -1,0 +1,67 @@
+---
+layout: post
+title: From Past to Present, or How I went from ES5 to ES6
+date: 2016-04-13
+catagories: programming JavaScript
+---
+
+TL;DR I have a JavaScript project called [pomodoro](https://github.com/skylerto/pomodoro), it was written in ES5, now
+it's written in ES6 as of this morning (April 13, no it's not Friday).
+
+If you're new to ES6 and want a quick reference guide, I suggest [airbnb JavaScript style guide](https://github.com/airbnb/JavaScript)
+If you're looking for something a little bit more technical I suggest the [ES6 feature guide](http://es6-features.org/).  
+
+## Why
+
+When someone tells you they are going to look at your code, it shouldn't make
+you nervous, especially after 4 years of programming. Well, when [Shopify](https://www.shopify.ca/) told me they were going to look, I got nervous; dream job, dream company, you get the picture.  
+
+After making a PR (pull request) on one of their projects for a simple change
+I'm almost embarassed about, I saw they embrace ES6. I thought about what cool
+(to me) projects I had made in JavaScript and how I could go about converting
+from ES5 to ES6.  
+
+
+## How
+
+As a generally OO (Object Oriented) developer; yes I know JavaScript does have a
+unique OO approach, but that's not what this post is about. The obligatory
+prototypical inheritance blog post is coming. Focus Sky, OOP and JavaScript,
+I loved the whole class concept that comes with ES6. It's really no different
+but provides a cute way to write code and avoid that dreaded god object of a
+return statement. This leads me to my **first point** of the benefit of converting
+from ES5 to ES6: use classes to separate out functionality.  
+
+Next up, compatibility. Moving to ES6 something to keep in mind is support for
+older browsers. Some of the functionality available in ES6 isnt' available in ES5.
+This is fine for writing node applications as node runs ES6 by default.
+Thanks to the tried and true [babel](https://babeljs.io/) we don't really have to worry about that. I
+wrote a [blog post explaining how to configure babel to build your ES6 into
+ES5]() to run it on older browsers. 
+
+Finally, documentation; This point doesn't really have much to do with ES6 or ES5 but
+it is something I find very important. I know Ruby has many documentation generators, rdoc being
+my favourite and I'm still learning it. Coming from Java, I know, I know they taught me it in
+school please don't spread it or, hold it against me, something I really like is
+javadoc for generating documentation. JavaScript has some tools [jsdoc](http://usejsdoc.org/),
+[yuidoc](http://yuilibrary.com) which provide very similar functionality to javadoc especially
+with this whole class structure. My **final point** is document, document,
+document because it's easy and tools will do the heavy lifting for you.  
+
+## Final Thoughts
+
+This really isn't a *How To Convert Your Code From ES5 to ES6* post, it's more
+of an explanition of how ES6 has made my life, as a developer easier and more
+enjoyable. If you don't believe me, have a look at the code samples below.  
+
+
+## Code Samples
+
+### Before
+<script src="https://gist.github.com/skylerto/b4a80881d9c1785bff06fa4c809c3be1.js"></script>
+
+### After
+
+<script src="https://gist.github.com/skylerto/cf98eb6a71dd5ef63b1d306af2f7389b.js"></script>
+
+
