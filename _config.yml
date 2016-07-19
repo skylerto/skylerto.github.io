@@ -9,6 +9,6 @@ twitter_username: skylerto
 github_username:  skylerto
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 gems:
     - jekyll-feed
