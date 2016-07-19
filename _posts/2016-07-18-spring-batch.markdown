@@ -57,7 +57,7 @@ you have worked, at what pay rate, vacation pay, etc.
 
 For our example we will talk about a small database table of 2 employees:  
 
-<div class="table-striped">
+{:.table}
 |-------+-------------------+------------+--------------|
 | Name  | Pay Rate (Hourly) | Week Of    | Hours Worked |
 |-------|-------------------|------------|--------------|
@@ -66,10 +66,11 @@ For our example we will talk about a small database table of 2 employees:
 | John  | $15.00            | July 25-29 | 40           |
 | Jacob | $40.00            | July 25-29 | 40           |
 |-------+-------------------+------------+--------------|
-</div>
+
 Our goal is to run payroll calculations biweekly, and generate a nice little
 report:  
 
+{:.table}
 |-------+------------+--------------+------------|
 | Name  | Pay Period | Hours Worked |  Total Pay |
 |-------|------------|--------------|------------|
