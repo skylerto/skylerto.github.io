@@ -56,22 +56,26 @@ high income tax is? They have some of your information as well as how many hours
 you have worked, at what pay rate, vacation pay, etc.  
 
 For our example we will talk about a small database table of 2 employees:  
-```
+
+|-------+-------------------+------------+--------------|
 | Name  | Pay Rate (Hourly) | Week Of    | Hours Worked |
 |-------|-------------------|------------|--------------|
 | John  | $10.00            | July 18-22 | 40           |
 | Jacob | $40.00            | July 18-22 | 20           |
 | John  | $15.00            | July 25-29 | 40           |
 | Jacob | $40.00            | July 25-29 | 40           |
-```
+|-------+-------------------+------------+--------------|
+
 Our goal is to run payroll calculations biweekly, and generate a nice little
 report:  
-```
+
+|-------+------------+--------------+------------|
 | Name  | Pay Period | Hours Worked |  Total Pay |
 |-------|------------|--------------|------------|
 | John  | July 18-29 |       80     | $1000.00   |
 | Jacob | July 18-29 |       60     | $2400.00   |
-```
+|-------+------------+--------------+------------|
+
 ### Reader
 
 Reads in a buffered amount of data, in this case we will read all of our data. It's only 4 rows after all. After each read, the row is converted using a [RowMapper](http://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/jdbc/core/RowMapper.html), into the desired Domain Object: 
