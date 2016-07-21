@@ -20,14 +20,12 @@ I am a dedicated, quick learning team player offering:
 
 ## Experience  
 
-### Business Operations Assistant May/2014 – Ongoing  
+### Software Developer June 2016 - Ongoing
 
-#### E-Services, York University  
- - Provide technical support for the Faculty of Liberal Arts and Professional Studies  
- - Resolve internal faculty and student complaints within established guidelines to
-satisfaction  
- - Assist in managing the computing inventory for York’s largest department, including
-both faculty and staff  
+#### Indellient Inc.
+- Work in small teams to develop custom software for clients using the Java Spring framework, Hibernate, and AngularJS 2.
+- Helped build a database searching index using [Solr](http://lucene.apache.org/solr/) for a client. Written in ~2000 lines of Java and XML configuration.
+- Contributed and managed a Spring batch reporting application for a pristine client. The application was designed to be executed as a cron job, or by command-line. Upon execution it generated MS Excel documents from an Excel template. Written in ~3,000 lines of Java.
 
 ## Projects  
 
