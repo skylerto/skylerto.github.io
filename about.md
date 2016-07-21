@@ -9,6 +9,8 @@ I love designing and creating.
 
 I wouldn't trade my education for anything in the world as I am a student of life.  
 
-If you're curious about me, and what I do please checkout my [blog](/blog), or send me an email!  
+Currently a software developer at [Indellient Inc.](http://www.indellient.com/)
+
+If you're curious about me and my experiences, and what I do please checkout my [blog](/blog), or send me an email!  
 
   mk.
