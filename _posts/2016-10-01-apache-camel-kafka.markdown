@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Apache Camel and Kafka
+title: Apache Camel and Kafka
 date: 2016/10/01
 catagories: programming java learning
 ---
