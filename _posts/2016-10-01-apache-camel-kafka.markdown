@@ -60,3 +60,8 @@ using the autowired `ProducerTemplate`.
 `POST /message` this route we are using to post JSON, marshal it to string, and
 send it off as a message.
 
+## Conclusions
+
+Communication and integration in distributed systems does not need to be
+difficult, rather Apache provides some great tools to make intigration points
+less painless and distributed messaging more fun.
