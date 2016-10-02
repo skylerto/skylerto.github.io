@@ -24,10 +24,12 @@ Finally we configure a Consumer from the Kafka consumer URI to the java Bean.
 "kafka:localhost:9092?topic=test&groupId=testing&autoOffsetReset=earliest&consumersCount=1"
 ```
 
+- **topic**: The topic the Consumer/Producer is subscribed to.
+- **groupId**: The ID of the group the Consumer/Producer is assigned to.
+- **autoOffsetReset**: The schema to adjust the message outset.
+- **consumersCount**: The number of consumers connecting to the Kafka server
 
-
-
-Form more information consult the [Kafka docs](http://kafka.apache.org/documentation.html)
+For more information consult the [Kafka docs](http://kafka.apache.org/documentation.html) and [Camel Kafka docs](http://camel.apache.org/kafka.html)
 
 ## The Controller
 
