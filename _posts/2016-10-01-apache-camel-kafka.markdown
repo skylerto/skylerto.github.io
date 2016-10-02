@@ -7,7 +7,10 @@ catagories: programming java learning
 
 [Code is here](https://github.com/skylerto/apache-camel-kafka).
 
-Often managing the integration of two or more systems is a difficult task. This task becomes even more difficult in a distributed mircoservice oriented system. Enter [Apache Kafka](http://kafka.apache.org) feat. [Apache Camel](http://camel.apache.org).
+Often, managing the integration of two or more systems is a difficult task.
+This task becomes even more difficult in a distributed mircoservice-oriented system.
+In this post I will explain how to make this communication less painless.
+Enter [Apache Kafka](http://kafka.apache.org) feat. [Apache Camel](http://camel.apache.org).
 
 ## Configuring the Camel Routes
 
@@ -16,7 +19,7 @@ Often managing the integration of two or more systems is a difficult task. This 
 To configure a Provider we define a Camel input route *from* `direct:kafkaRoute`,
 exchanging the message *to* the URI endpoint for Kafka.
 
-Finally we configure a Consumer from the Kafka consumer URI to the java Bean
+Finally, we configure a Consumer from the Kafka consumer URI to the java Bean
 which is invoked when an event occurs.
 
 ### Anatomy of a Camel Kafka URI
@@ -63,6 +66,6 @@ send it off as a message.
 ## Conclusions
 
 Communication and integration in distributed systems does not need to be
-difficult, rather Apache provides some great tools like [Apache Kafka](http://kafka.apache.org)
+difficult, rather, Apache provides some great tools like [Apache Kafka](http://kafka.apache.org)
 and [Apache Camel](http://camel.apache.org) to make integration points
 less painless and distributed messaging more fun.
