@@ -63,5 +63,6 @@ send it off as a message.
 ## Conclusions
 
 Communication and integration in distributed systems does not need to be
-difficult, rather Apache provides some great tools to make intigration points
+difficult, rather Apache provides some great tools like [Apache Kafka](http://kafka.apache.org)
+and [Apache Camel](http://camel.apache.org) to make integration points
 less painless and distributed messaging more fun.
