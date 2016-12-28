@@ -2,5 +2,12 @@
   "lang": "en",
   "name": "Skyler Layne Personal Tech Blog",
   "description": "This is my personal tech blog, reps thing's I've learned on the job.",
-  "short_name": "skylerto"
+  "short_name": "skylerto",
+  "background_color": "white",
+  "theme_color": "white",
+  "icons": [{
+    "src": "/img/favme.jpeg",
+    "sizes": "16x16",
+    "type": "images/jpeg"
+  }]
 }
