@@ -7,9 +7,12 @@
   <link rel="shortcut icon" type="image/png" href="{{"/img/favme.jpeg" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
 
-  <script src="http://code.jquery.com/jquery-2.2.1.min.js"></script>
+  <script src="http://code.jquery.com/jquery-2.2.1.min.js" async defer></script>
   <!-- Latest compiled and minified JavaScript -->
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+  <script
+src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"
+integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ=="
+  crossorigin="anonymous" async defer></script>
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
@@ -19,7 +22,8 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ " /feed.xml " | prepend: site.baseurl | prepend: site.url }}" />
   <!-- Latest compiled and minified CSS -->
 
-  <script type="text/javascript" src="{{ "/js/jquery.flexnav.min.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/jquery.flexnav.min.js" | prepend:
+site.baseurl }}" async defer></script>
   <!-- Put these into the <head> -->
 
 <link href="{{ "/css/flexnav.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css" />
