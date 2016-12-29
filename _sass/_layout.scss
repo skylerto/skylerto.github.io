@@ -201,7 +201,7 @@ nav {
 }
 .post-meta {
   font-size: $small-font-size;
-  color: $grey-color;
+  color: lighten($brand-color, 15%);
 }
 .post-link {
   display: block;
@@ -228,27 +228,27 @@ nav {
 }
 
 h1 {
-  font-size: 28px;
-  @include media-query($on-laptop) {
-    font-size: 24px;
-  }
-}
-h2 {
-  font-size: 26px;
+  font-size: 22px;
   @include media-query($on-laptop) {
     font-size: 22px;
   }
 }
-h3 {
+h2 {
   font-size: 20px;
   @include media-query($on-laptop) {
     font-size: 20px;
   }
 }
+h3 {
+  font-size: 18px;
+  @include media-query($on-laptop) {
+    font-size: 18px;
+  }
+}
 h4 {
   font-size: 16px;
   @include media-query($on-laptop) {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 
