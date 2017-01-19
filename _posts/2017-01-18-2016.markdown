@@ -17,7 +17,8 @@ categories: learning growth
 
 ## Education
 
-In 2016, I graduated.
+In 2016, I graduated and got a job in my field 4 days after I walked across the
+stage.
 
 ## Music
 
@@ -50,6 +51,35 @@ here is my top 20 artists of 2016:
 ## We went to Cuba  
 ![Cuba](https://lh3.googleusercontent.com/w-tcwDHqmV5Jo4d-i4JY9Q0HJO2vMcCucKOqXpLc8WqSUWx8jlTt53dkDVI507YDrrk_TKSQRp0QKhkUPhoMDO4z-QsJ5gF7hrTAIcq5WhIiMwbDzgoUeCfch3jDgir1Ppqwv4k)
 
+## [Code](https://github.com/skylerto)
+
+In 2016 I did a lot of side projects as I started to grow myself as a developer
+and reach out trying to figure out which technologies I enjoyed working with.  
+
+- Made 1,160 contributions in 2016.  
+- I created 35 repositories.  
+- This year I my [top 3 languages](http://ghv.artzub.com/#user=skylerto) were Java, JavaScript, and Ruby.  
+
+## Apps
+
+- Goodreads: manage my bookshelf/lack of, digitally.
+- workflowy: keep notes on all of the things.
+- Fitbit: Track workouts and steps.
+
+
+## Books
+
+This year my reads were all over the place, I didn't really track how much/what
+I read.
+
+- The Art of Asking (audio)
+- Core Questions in Philosophy 
+- Outlines of Pyrrhonism
+- The Google Resume
+- Sapiens (audio)
+- The 50th Law (audio)
+- The Aeneid
+- Plate: Five Dialogues
 
 ## Forward
 
@@ -57,4 +87,8 @@ In 2017, I would like to:
 - Travel/Spend more meaningful time with my family and fiancé.  
 - Train and run a full marathon.  
 - Spend time decluttering physically and digitally.  
+- Start a [Commonplace
+  book](http://ryanholiday.net/how-and-why-to-keep-a-commonplace-book/).
+- Track as much of my activities as I can: how I spend my time, which teas/coffees I drink,
+  routes/distances I run, apps I try, movies/shows I watch.
 
