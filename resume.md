@@ -25,17 +25,17 @@ I am a dedicated, quick learning team player offering:
 #### Indellient Inc.
 - Worked in a small team to develop custom software for a multi national company
   using the Java Spring framework, Hibernate, Oracle DB on the backend and
-  AngularJS 2 on the front end, combined to over 20,000 lines of code.  
-- Helped build a database searching index using [Solr](http://lucene.apache.org/solr/)
-  for a client. Written in ~2000 lines of Java and XML configuration.  
-- Contributed and managed a Spring batch reporting application for a pristine
+  Angular 2 on the front end, combined to over 20,000 lines of code.  
+- Built and managed a Spring batch reporting application for a pristine
   client. The application was designed to be executed as a cron job, or by
   command-line. Upon execution it generated MS Excel documents from an Excel
   template. Written in ~3,000 lines of Java.  
 - Worked on integrated an
   [AEM](http://www.adobe.com/ca/marketing-cloud/enterprise-content-management.html) designed application with an API endpoint via
-  client-side javascript (jQuery).
-- Worked on creating and maintaining chef cookbooks to deploy various project's infrastructure 
+  client-side javascript (jQuery).  
+- Build a database searching index creator using [Solr](http://lucene.apache.org/solr/)
+  for a client. Written in ~2000 lines of Java and XML configuration.  
+- Worked on creating and maintaining chef cookbooks to deploy various project's infrastructure.  
 
 ## Projects  
 
