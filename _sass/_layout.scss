@@ -100,7 +100,7 @@ nav {
 .site-sidebar {
   position: fixed;
   margin-left: 2%;
-  width: 200px;
+  width: 10%;
   float: left;
   img {
     @media screen and (max-width: 700px) {
@@ -182,7 +182,9 @@ nav {
  */
 .page-content {
   padding: $spacing-unit 0;
+  width: 90%;
   float: left;
+  height: 100vh;
   margin-left: 25%;
   margin-right: 5%;
 }
