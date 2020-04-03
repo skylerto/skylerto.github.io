@@ -9,3 +9,4 @@ pkg/
 _site/
 _includes
 .DS_Store
+.jekyll-cache
