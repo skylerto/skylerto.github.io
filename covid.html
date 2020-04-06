@@ -11,10 +11,11 @@ title: Covid
 		function onEachFeature(feature, layer) {
 			// does this feature have a property named popupContent?
 			if (feature.properties) {
-				data = ''
+				data = '<ul>'
 				for (var property in feature.properties) {
-					data = data + '<p>' + property + ':' + feature.properties[property] + '</p>'
+					data = data + '<li>' + property + ':' + feature.properties[property] + '</li>'
 				}
+				data = data + '</ul>'
 				layer.bindPopup(data);
 			}
 		}
