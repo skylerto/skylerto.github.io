@@ -1,12 +1,7 @@
 <div class="site-sidebar">
-
   <div class="wrapper">
-
-    <h2 class="sidebar-heading">{{ site.title }}</h2>
-
+    <!-- <h2 class="sidebar-heading">{{ site.title }}</h2> -->
     <div class="sidebar-col-wrapper">
-
-
       <!-- ADD MY FACE HERE -->
       <div class="avatar">
         <a href="/">
@@ -62,7 +57,8 @@
 
       <nav class="" style="clear:both;">
 
-        <ul class="mobile-nav flexnav" data-breakpoint="800">
+      <div class="menu-button">&#9776;</div>
+        <ul class="mobile-nav" data-breakpoint="800">
           <li>
             <a href="/about">About</a>
           </li>
@@ -87,19 +83,24 @@
       </ul>
     </nav>
 
-      <div class="menu-button">&#9776;</div>
+				<script>
+					console.log()
+					$('.menu-button').click(() => {
+						$('.mobile-nav').toggle();
+					})
+				</script>
 
-      <script>
-        $(".flexnav").flexNav({
-          'animationSpeed': 250, // default for drop down animation speed
-          'transitionOpacity': true, // default for opacity animation
-          'buttonSelector': '.menu-button', // default menu button class name
-          'hoverIntent': false, // Change to true for use with hoverIntent plugin
-          'hoverIntentTimeout': 150, // hoverIntent default timeout
-          'calcItemWidths': false, // dynamically calcs top level nav item widths
-          'hover': true // would you like hover support?
-        });
-      </script>
+      <!-- <script> -->
+      <!--   $(".flexnav").flexNav({ -->
+      <!--     'animationSpeed': 250, // default for drop down animation speed -->
+      <!--     'transitionOpacity': true, // default for opacity animation -->
+      <!--     'buttonSelector': '.menu-button', // default menu button class name -->
+      <!--     'hoverIntent': false, // Change to true for use with hoverIntent plugin -->
+      <!--     'hoverIntentTimeout': 150, // hoverIntent default timeout -->
+      <!--     'calcItemWidths': false, // dynamically calcs top level nav item widths -->
+      <!--     'hover': true // would you like hover support? -->
+      <!--   }); -->
+      <!-- </script> -->
 
       <div class="clearfix"></div>
 

@@ -87,34 +87,49 @@ nav {
     font-weight: 300;
   }
   .mobile-nav {
-    @media screen and (min-width: 700px) {
       display: none;
-    }
   }
   .nav {
-    @media screen and (max-width: 700px) {
+    @media (max-width: 700px) {
       display: none;
     }
   }
 }
+
+.menu-button {
+  @media (min-width: 700px) {
+    display: none;
+  }
+}
+
+
 .site-sidebar {
-  position: fixed;
-  margin-left: 2%;
-  width: 10%;
-  float: left;
-  img {
-    @media screen and (max-width: 700px) {
-      display: none;
-    }
-    .menu-button {
-      @media screen and (max-width: 700px) {
+  background: white;
+  @media (max-width: 700px) {
+    width: 50%;
+  }
+  @media (min-width: 700px) {
+    position: fixed;
+    width: 10%;
+    border-style: solid;
+    float: left;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    border-right-color: #E8E8E8;
+    border-right-width: 1px;
+    margin-top: $spacing-unit;
+  }
+  .sidebar-col-wrapper {
+    img {
+      @media (max-width: 700px) {
         display: none;
       }
     }
-  }
-  .social-media-list {
-    @media screen and (max-width: 700px) {
-      display: none;
+    .social-media-list {
+      @media (max-width: 700px) {
+        display: none;
+      }
     }
   }
 }
@@ -139,7 +154,6 @@ nav {
   font-size: 15px;
   max-width: 200px;
   color: $grey-color;
-  margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
 .sidebar-col {
@@ -181,12 +195,16 @@ nav {
  * Page content
  */
 .page-content {
+  // background: white;
+  // height: 100vh;
   padding: $spacing-unit 0;
-  width: 90%;
-  float: left;
-  height: 100vh;
-  margin-left: 25%;
-  margin-right: 5%;
+  // width: 90%;
+
+  @media (min-width: 700px) {
+    margin-left: 25%;
+    margin-right: 5%;
+    float: left;
+  }
 }
 .page-heading {
   font-size: 20px;
@@ -195,6 +213,8 @@ nav {
   margin-left: 0;
   list-style: none;
   > li {
+    background: white;
+    padding: 2em;
     margin-bottom: $spacing-unit;
     h2 {
       margin-top: 0;
@@ -213,6 +233,10 @@ nav {
 /**
  * Posts
  */
+.post {
+  background: white;
+  padding: $spacing-unit $spacing-unit * 4;
+}
 .post-header {
   margin-bottom: $spacing-unit;
 }
