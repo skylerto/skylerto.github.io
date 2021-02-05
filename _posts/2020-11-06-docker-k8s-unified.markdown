@@ -2,7 +2,7 @@
 layout: post
 title: "How Docker & Kubernetes Help Provide a Unified Path to Production"
 date: 2020/11/06
-categories: ruby programming
+categories: docker kubernetes devops
 ---
 
 This blog post is for the person interested in Kubernetes and Docker but hasn’t
