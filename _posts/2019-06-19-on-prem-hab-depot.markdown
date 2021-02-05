@@ -110,3 +110,8 @@ their CI pipeline and their Depot Infrastructure. To sum it all up:
 - HA S3 storage is essential for production readiness.
 - A Multi-Depot strategy depends on an organization's needs (separation of responsibilities, etc.)
 - Chef Habitat is ready for the enterprise.
+
+
+[Bringing the Chef Habitat Depot On-Premise in the Enterprise Slides](https://www.slideshare.net/Indellient/bringing-the-chef-habitat-depot-onpremise-in-the-enterprise)
+
+[Bringing the Chef Habitat Depot On-Premise in the Enterprise Video](https://youtu.be/GcGb9d3ERn4)
